@@ -52,4 +52,5 @@
 
         "ncuesta/pinocchio": "dev-master"
     }
+    "minimum-stability": "dev",
 }
